@@ -1,3 +1,7 @@
+## TESLA WEBSITE CLONE with React Js, Tailwind Css, Animate.css, React Icons
+
+<img width="1214" alt="Screenshot 2023-02-25 at 03 54 59" src="https://user-images.githubusercontent.com/125358382/221334779-beeaca4b-9668-469e-94a4-d0209bded136.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
